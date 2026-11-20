@@ -43,7 +43,7 @@ Before handing anything over, the employee who made it looks at the actual rende
 
 ## Your data stays on your computer
 
-Your org chart, company files and AI employees' memory are all stored on your own PC or server. Avalokit doesn't collect your data: we keep no accounts on our servers, and the app sends us no usage logs. Only what the work needs leaves your computer, and it goes only to the AI model you choose and the tools your employees use. Turn on Remote access to reach your company from outside the office, or from a Mac, in a web browser.
+Your org chart, company files and AI employees' memory are all stored on your own PC or server. Avalokit doesn't collect your company's data: the app needs no account with us and sends us no usage logs. Only what the work needs leaves your computer, and it goes only to the AI model you choose and the tools your employees use. Turn on Remote access to reach your company from outside the office, or from a Mac, in a web browser.
 
 ## What you need
 
